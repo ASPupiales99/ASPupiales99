@@ -8,7 +8,6 @@
   </ul>
 </div>
 
-<br>
 <h2>About me 😃</h2>
 <p align="left">
 🏫 Master in Software Engineering
@@ -22,15 +21,26 @@
 </p>
 <br>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+<h2>My skills👨🏻‍💻</h2>
+
 <!--tech stack icons-->
+<h3>Programming languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,figma,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,postman,py,ts,vscode,gitlab,idea,spring&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py&perline=14" />
+  </a>
+</p>
+
+<h3>Frontend development</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,js,materialui,ts,vue&perline=14" />
+  </a>
+</p>
+
+<h3>Software & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postgres,figma,github,linux,md,mongodb,mysql,postman,vscode,gitlab,idea,spring&perline=14" />
   </a>
 </p>
