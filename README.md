@@ -17,7 +17,7 @@
 
 📝 Building and exploring backend solutions using Python (FastAPI & Django).
 
-📫 Contact: **l.a.box30@gmail.com**
+📫 Contact: **sebastian.pupiales.salazar@gmail.com**
 </p>
 <br>
 
